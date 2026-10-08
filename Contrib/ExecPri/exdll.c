@@ -1,5 +1,5 @@
 #include <windows.h>
-#include "../exdll/exdll.h"
+#include "exdll.h"
 
 HINSTANCE g_hInstance;
 
